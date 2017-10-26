@@ -17,5 +17,5 @@ def speak_to_grandma(str)
 
   elsif(str == str.upcase)
     puts "NO, NOT SINCE 1938!"
-  end
+  elsif(str == "I LOVE YOU GRANDMA!")
 end
